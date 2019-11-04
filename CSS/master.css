@@ -1,1 +1,50 @@
+.darkMode{
+  background-image: url(../PICS/redTheme.jpg);
+  background-color: #e0310b;
+  background-size: cover;
+  height: 100%;
+  overflow-x: auto;
 
+}
+.introSection{
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+
+}
+.banner{
+  color: #DAF7A6;
+  text-align: center;
+  max-width: 100%;
+
+}
+.bannerContainer{
+  max-width: 100%;
+
+}
+.profilePic{
+  max-width: 30%;
+  border: dotted #DAF7A6;
+  border-radius: 50%;
+  float: left;
+  margin-right: 5%;
+  margin-left: 10%;
+
+}
+.introHeading{
+  color: #DAF7A6;
+  width: 60%;
+  margin-top: 10%;
+  margin-left: 20%;
+
+}
+.introBody{
+  color: #DAF7A6;
+  width: 60%;
+  margin-left: 30%;
+
+}
+.contactForm{
+  color: #DAF7A6;
+
+}
