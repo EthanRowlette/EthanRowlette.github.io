@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <title>Connect Now</title>
     <link rel="stylesheet" href="css/master.css">
-    <link rel="" href="/css/master.css">
     <?php include('master.php') ?>
   </head>
   <body class="darkMode">
