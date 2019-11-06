@@ -7,8 +7,8 @@
   font-size: 1.8em;
 }
 .introSection{
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: auto;
+  margin-right: auto;
   width: 90%;
 
 }
@@ -34,7 +34,6 @@
 }
 .introHeading{
   text-align: center;
-  /*font-size: 2em;*/
   color: #DAF7A6;
   width: 60%;
   margin-top: 10%;
@@ -42,7 +41,6 @@
 
 }
 .introBody{
-  /*font-size: 1.8em;*/
   color: #DAF7A6;
   width: 60%;
   margin-left: 20%;
@@ -52,3 +50,4 @@
   color: #DAF7A6;
 
 }
+
