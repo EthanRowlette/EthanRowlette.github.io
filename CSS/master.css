@@ -4,7 +4,7 @@
   background-size: cover;
   height: 100%;
   overflow-x: auto;
-
+  font-size: 1.8em;
 }
 .introSection{
   margin-left: 10%;
@@ -13,6 +13,7 @@
 
 }
 .banner{
+
   color: #DAF7A6;
   text-align: center;
   max-width: 100%;
@@ -28,10 +29,12 @@
   border-radius: 50%;
   float: left;
   margin-right: 5%;
-  /*margin-left: 10%;*/
+  margin-left: 10%;
 
 }
 .introHeading{
+  text-align: center;
+  /*font-size: 2em;*/
   color: #DAF7A6;
   width: 60%;
   margin-top: 10%;
@@ -39,10 +42,10 @@
 
 }
 .introBody{
-  font-size: 1.8em;
+  /*font-size: 1.8em;*/
   color: #DAF7A6;
   width: 60%;
-  margin-left: 10%;
+  margin-left: 20%;
 
 }
 .contactForm{
